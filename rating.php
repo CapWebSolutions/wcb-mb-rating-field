@@ -1,9 +1,6 @@
 <?php
 /**
- * Plugin Name: Wolf Creek Backcountry Star rating field for Meta Box
- * Plugin URI: https://github.com/capwebsolutions.com/wcb-mb-rating-field
- * Description: Add a new star rating field type for Meta Box
- * Version: 1.0	
+ * Main class for rating field
  * 
  **/
 
